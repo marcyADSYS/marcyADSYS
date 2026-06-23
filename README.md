@@ -1,16 +1,90 @@
-## Hi there 👋
+# Salut, je suis Marcy 👋
 
-<!--
-**marcyADSYS/marcyADSYS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 À propos de moi
 
-Here are some ideas to get you started:
+Je suis diplômé en **Ingénierie des Travaux Informatiques**, option **Administration des Systèmes et Réseaux**.
+Je construis des laboratoires techniques pour renforcer mes compétences en administration système, réseaux, sécurité et automatisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Compétences techniques
+
+### Systèmes
+
+* Linux Administration
+* Windows Server
+* Active Directory
+* Gestion des utilisateurs et permissions
+
+### Réseaux
+
+* TCP/IP
+* VLAN
+* Routing & Switching
+* DHCP
+* DNS
+* Firewall configuration
+
+### Virtualisation & Cloud
+
+* Proxmox
+* VMware
+* VirtualBox
+* Docker
+
+### Sécurité
+
+* Linux Hardening
+* Firewall Rules
+* SSH Security
+* Fail2ban
+* Access Control
+
+### Scripting & Automation
+
+* Bash
+* Python
+* PowerShell
+
+### Monitoring
+
+* Zabbix
+* Grafana
+* Prometheus
+
+---
+
+## 🔬 Mes Labs en cours
+
+* Active Directory Lab
+* Linux Server Hardening
+* pfSense Firewall Lab
+* Docker Services Lab
+* Monitoring Stack
+
+---
+
+## 📂 Mes Projets
+
+Bientôt disponibles ici 👇
+
+* Backup Automation Scripts
+* Network Scanner Tool
+* User Management Scripts
+* Infrastructure Monitoring Dashboard
+
+---
+
+## 🎯 Objectifs 2026
+
+* Renforcer mes compétences en administration Linux
+* Construire un home lab complet
+* Automatiser le déploiement de serveurs
+* Approfondir la sécurité réseau
+* Développer des projets DevOps
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/marcyADSYS
